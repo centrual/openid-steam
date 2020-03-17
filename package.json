@@ -1,6 +1,6 @@
 {
   "name": "openid-steam",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple Node.js API for Steam OpenID web authentication",
   "main": "./lib/index.js",
   "scripts": {
